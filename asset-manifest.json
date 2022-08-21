@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/minflex/static/js/main.be93b6dc.js",
+    "main.js": "/minflex/static/js/main.5b844cd6.js",
     "index.html": "/minflex/index.html",
-    "main.be93b6dc.js.map": "/minflex/static/js/main.be93b6dc.js.map"
+    "main.5b844cd6.js.map": "/minflex/static/js/main.5b844cd6.js.map"
   },
   "entrypoints": [
-    "static/js/main.be93b6dc.js"
+    "static/js/main.5b844cd6.js"
   ]
 }
